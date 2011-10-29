@@ -1,0 +1,5 @@
+DESCRIPTION 'FF application'
+
+EXPORTS acrxEntryPoint
+ _SetacrxPtp
+	 	acrxGetApiVersion
