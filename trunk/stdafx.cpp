@@ -1,0 +1,24 @@
+// stdafx.cpp: source file that includes just the standard includes
+//
+// This is a part of the Microsoft Foundation Classes C++ library.
+// Copyright (C) 1992-1997 Microsoft Corporation
+// All rights reserved.
+//
+// This source code is only intended as a supplement to the
+// Microsoft Foundation Classes Reference and related
+// electronic documentation provided with the library.
+// See these sources for detailed information regarding the
+// Microsoft Foundation Classes product.
+
+#include "stdafx.h"
+
+#include <geassign.h>
+#include <adslib.h>
+#include <dbsymtb.h>
+
+#include <aced.h>
+#include <adslib.h>
+#include <dbsymtb.h>
+#include <acgi.h>
+#include <acdb.h>
+#include <ads.h>
