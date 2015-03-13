@@ -1,0 +1,2 @@
+This is a tool running within AutoCAD to export solid objects' surface information to an easily accessible format which can be used in a simulation system. The output is like an optimized version of [STL](http://en.wikipedia.org/wiki/STL_(file_format)) file format.
+Currently, it compiles in Visual C++ 6.0 using [Autodesk's ObjectARX](http://usa.autodesk.com/adsk/servlet/index?id=773204&siteID=123112).
